@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fb2fb27-65e0-4bde-b51b-5be5246818bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/java/CascadeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/java/EntityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/java/ManyToOneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/java/OneToManyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/java/OneToOneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/java/entity/Alcohol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/java/entity/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/java/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/java/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/java/entity/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/java/manyToManyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java6-jpa-master/target/classes/META-INF/persistence.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java6-jpa-master" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains2\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h593u3T49QYGhDzIEQvzaoMqRO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../simple-jpa" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OneToManyDemo">
+    <configuration name="ManyToOneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManyToOneDemo" />
+      <module name="java6-jpa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneToManyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OneToManyDemo" />
+      <module name="java6-jpa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneToOneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OneToOneDemo" />
+      <module name="java6-jpa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OneToManyDemo" />
+        <item itemvalue="Application.ManyToOneDemo" />
+        <item itemvalue="Application.OneToOneDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fb2fb27-65e0-4bde-b51b-5be5246818bc" name="Default Changelist" comment="" />
+      <created>1599289890085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599289890085</updated>
+      <workItem from="1599289891151" duration="5314000" />
+      <workItem from="1599295963995" duration="7247000" />
+      <workItem from="1599305017111" duration="4186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1599306044701">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1599306044701" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1599309793349">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1599309793349" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599302221172">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1599302221172" />
+  </component>
+</project>

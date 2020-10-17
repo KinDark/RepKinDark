@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29850682-da0c-4ff6-ab99-36afa3413b8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains2\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hCJNee5chFl7svtmrC4R46rIqz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../simple-spring-master2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FirstTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29850682-da0c-4ff6-ab99-36afa3413b8c" name="Default Changelist" comment="" />
+      <created>1599509105199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599509105199</updated>
+      <workItem from="1599509106926" duration="2544000" />
+      <workItem from="1599766352656" duration="1078000" />
+      <workItem from="1599767611076" duration="1862000" />
+      <workItem from="1599894526093" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="8" key="#Project_Structure" timestamp="1599768855369">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="560" y="8" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1599768855369" />
+    <state x="828" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599768845530">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="828" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1599768845530" />
+    <state x="846" y="100" width="734" height="660" key="DiffContextDialog" timestamp="1599768533680">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="846" y="100" width="734" height="660" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1599768533680" />
+    <state x="726" y="188" key="FileChooserDialogImpl" timestamp="1599894584402">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="726" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1599894584402" />
+    <state x="301" y="74" key="SettingsEditor" timestamp="1599766472748">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="74" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1599766472748" />
+  </component>
+</project>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a08a714-24b5-411d-8439-edb40f12828c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains2\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gUvWMiOTEWd4kcNC4amMZwKgJ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EntityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntityDemo" />
+      <module name="java6-jpa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EntityDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a08a714-24b5-411d-8439-edb40f12828c" name="Default Changelist" comment="" />
+      <created>1598182017418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598182017418</updated>
+      <workItem from="1598182018534" duration="6027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="284" key="#com.intellij.debugger.ui.breakpoints.EditClassFiltersDialog" timestamp="1598187500918">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="284" key="#com.intellij.debugger.ui.breakpoints.EditClassFiltersDialog/0.0.1600.860@0.0.1600.860" timestamp="1598187500918" />
+    <state x="319" y="7" key="CommitChangelistDialog2" timestamp="1598187843754">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="319" y="7" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1598187843754" />
+    <state width="1408" height="479" key="GridCell.Tab.0.bottom" timestamp="1598188055431">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1408" height="479" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598188055431" />
+    <state width="1408" height="479" key="GridCell.Tab.0.center" timestamp="1598188055431">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1408" height="479" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598188055431" />
+    <state width="1408" height="479" key="GridCell.Tab.0.left" timestamp="1598188055431">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1408" height="479" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598188055431" />
+    <state width="1408" height="479" key="GridCell.Tab.0.right" timestamp="1598188055431">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1408" height="479" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598188055431" />
+    <state x="380" y="172" key="IDE.errors.dialog" timestamp="1598187102640">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="172" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1598187102640" />
+    <state x="324" y="165" width="951" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598187517454">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="324" y="165" width="951" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1598187517454" />
+    <state x="601" y="336" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598187792886">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="601" y="336" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1598187792886" />
+    <state x="500" y="177" key="refactoring.ChangeSignatureDialog" timestamp="1598185879122">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="500" y="177" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1598185879122" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1598183624176">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1598183624176" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <dependency id="0" master-id="1" />
+          <properties class="javax.persistence.PersistenceException" package="javax.persistence" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <dependency id="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="javascript-exception">
+          <dependency master-id="0" />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

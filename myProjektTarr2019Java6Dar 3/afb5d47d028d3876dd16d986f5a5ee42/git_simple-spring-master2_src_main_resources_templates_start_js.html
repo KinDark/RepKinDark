@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Strona o HTML</title>
+    <meta name="description" content="Podstawowe informacje o HTML, CSS i JS">
+    <meta name="keywords" content="html, css, javascript, sda, tarr">
+</head>
+<body>
+<header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="start_html.html">HTML</a>
+        <a href="start_css.html">CSS</a>
+    </nav>
+</header>
+<main>
+    <article>
+        <H1>O stronie</H1>
+        <p>Strona z podstawowymi informacjami na temat technologi JavaScript.</p>
+        <form>
+            <imput type="number" id="a"><br>
+            <imput type="number" id="b"><br>
+                <button type="button" onclick="oblicz('+')">Dodaj</button>
+                <button type="button" onclick="oblicz('*')">Pomnóż</button>
+                <button type = "button" onclick ="demoCar"()>Demo Car</button>                </form>
+                <script>
+                    let a = 2325;
+                    let b = 0.1;
+                    const PI = 3.14;
+
+                    a="sdashj";
+                    console.log(a + b);
+                    a = "0.1";
+                    console.log(a * b);
+                    console.log(a==b);
+                    console.log(a===b);
+                    console.log(a**b);
+                    console.log(a**=b);
+                    console.log(typeof a)
+                    console.log(typeof b)
+                    console.log(a instanceof String)
+                    console.log(void 0)
+                    console.log(isValid)
+                    let car={
+                        power: 125,
+                        color: 'black',
+                        model: 'A5',
+                        start: function(){
+                            console.log("Startujemy");
+                        }
+
+                    };
+                    let secondCar = {
+
+                    }
+
+                    consle.log(car);
+                    console.log(car.color);
+                    car.color= 'red';
+                    car.start();
+                    console.log(car["color"]);
+                    let arr = [];
+                    let car= [{color: "red", power:120}, {color: "black" power: 200}];
+                    let numbers = [1,2,3,4];
+                    numbers.push(5);
+                    numbers.log(numbers.pop());
+                    console.log(numbers);
+                    for(let i =0; numbers.length; i++){
+                        console.log(numbers[i]);
+
+                    }
+                    for(let i in numbers){
+                        console.log(numbers[i]);
+
+                    }
+                    for(let number of numbers) {
+                        console.log(number);
+                    }
+                    let tablica = new Array();
+                    console.log(typeof tablica);
+                    console.log(typeof numbers);
+                    console.log(numbers instanceof Array);
+                    console.log(numbers instanceof Object);
+
+                    //iterować
+
+
+                    function oblicz(operation) {
+                        let inputA= document.getElementById("a")
+                        let inputA= document.getElemetById("b")
+                        let resultHistory= document.getElementById("result-history")
+                        switch(operation) {
+                            case"+":
+                            let tesult = suma(Number(inputA.value), Number(inputB.value));
+                            break;
+                            cas"*":
+                            let result = mul(Number(inputA.value), Number(inputB.value));
+                            break;
+                        }
+
+                        resultHistory.innertHTML += `<p>${result}</p>p>`
+                        let result = suma(Number(inputA.value )+ Number(inputB.value));
+                        resultHistroy.innerHTML +="<p>" + result+ "</p>";
+
+                    }
+                    function suma(x,y){
+                        return x+b;
+                    }
+
+                </script>
+
+                </imput>
+            </imput>
+        </form>
+    </article>
+</main>
+<footer>
+
+</footer>
+<script  rel="script" src="../static/script.js"></script>
+</body>
+</html>
